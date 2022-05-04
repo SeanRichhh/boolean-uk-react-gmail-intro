@@ -1,3 +1,4 @@
+import "../styles/Header/header.css"
 import IconHeader from "./iconheader"
 import SearchBar from "./searchbar"
 

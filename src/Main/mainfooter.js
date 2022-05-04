@@ -1,4 +1,8 @@
+
+import "../styles/Main/mainfooter.css"
+
 import flaticonWelcomeImage from "../assets/images/flaticon-welcome-image.png";
+
 function Mainfooter(){
     return(
         <><section className="email-body">

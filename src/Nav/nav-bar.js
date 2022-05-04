@@ -1,3 +1,5 @@
+import "../styles/Nav-bar/nav-bar.css"
+
 function Nav(){
     return(
         <nav className="left-menu">
